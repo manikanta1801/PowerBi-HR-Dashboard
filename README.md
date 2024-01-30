@@ -4,6 +4,10 @@ Human Resource Dashboard Using Power Bi
 Overview:
 The Human Resource Dashboard using Power BI is a comprehensive solution designed to provide actionable insights into various HR metrics and key performance indicators. This dashboard leverages Power BI's data visualization capabilities to offer a user-friendly interface for HR professionals and decision-makers to monitor and analyze critical aspects of the organization's workforce.
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Project Outcomes:
 
 Improved Decision-Making:
@@ -27,5 +31,8 @@ Identify areas for cost reduction and optimization through efficient resource ma
 Talent Retention:
 Implement targeted initiatives to retain top talent by addressing key factors influencing turnover.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 System Requirements:
+
 Any Windows Desktop with Power Bi desktop latest version
